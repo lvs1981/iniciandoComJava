@@ -82,7 +82,6 @@ public class AdotaCachorro {
         System.out.println(this.nome + " " + this.ferido + " está ferido e " + this.apto);
             return this.apto;
         }
-
 }
 
 
