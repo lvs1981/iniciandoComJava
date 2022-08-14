@@ -70,6 +70,7 @@ public class AdotaCachorro {
 
 
     public String aptoParaAdocao(){
+        
         if(this.peso >= 5 && !this.ferido){
 
             this.apto = " está apto para adoção";

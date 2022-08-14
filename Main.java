@@ -22,7 +22,6 @@ public class Main {
             adocao2.validachip(true);
             adocao2.animalFerido(true);
             adocao2.aptoParaAdocao();
-    
         }
 }
 
