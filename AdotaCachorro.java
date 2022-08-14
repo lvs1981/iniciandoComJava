@@ -79,7 +79,7 @@ public class AdotaCachorro {
         else {
             this.apto = " não está apto para adoção";
         }
-        System.out.println(this.nome + this.ferido + " está ferido e " + this.apto);
+        System.out.println(this.nome + " " + this.ferido + " está ferido e " + this.apto);
             return this.apto;
         }
 
