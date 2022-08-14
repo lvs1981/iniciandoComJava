@@ -24,6 +24,5 @@ public class Main {
             adocao2.aptoParaAdocao();
     
         }
-
 }
 

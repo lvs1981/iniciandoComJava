@@ -10,8 +10,6 @@ public class AdotaCachorro {
     private String possuiChip;
     private boolean ferido;
 
-
-
     public AdotaCachorro(String nome, String raca){
         this.nome = nome;
         this.registrado = true;
